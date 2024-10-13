@@ -97,8 +97,8 @@ header {
   border-bottom: 3px solid #44ffa1;
 }
 
-.hero__left__ornamental,
-.hero__right__ornamental,
+/* .hero__left__ornamental,
+.hero__right__ornamental, */
 .about__bottom__ornamental {
   display: none;
 }
