@@ -238,8 +238,12 @@ footer {
   position: absolute;
   bottom: 109px;
   right: 0;
+  width: 64px;
+  height: 181px;
   display: block;
-  transform: translateX(44px);
+  background-image: url("./assets/images/hero__right.png");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 @media screen and (min-width: 768px) {
