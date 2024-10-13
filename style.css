@@ -234,21 +234,6 @@ footer {
   color: #584d62;
 }
 
-<<<<<<< HEAD
-=======
-.hero__right__ornamental {
-  position: absolute;
-  bottom: 109px;
-  right: 0;
-  width: 64px;
-  height: 181px;
-  display: block;
-  background-image: url("./assets/images/hero__right.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
->>>>>>> 1a8606c (hero__left background-image)
 @media screen and (min-width: 768px) {
   .container {
     width: 88.5%;
