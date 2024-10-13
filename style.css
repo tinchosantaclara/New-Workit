@@ -234,6 +234,13 @@ footer {
   color: #584d62;
 }
 
+.hero__left__ornamental {
+  position: absolute;
+  top: 45px;
+  left: -110px;
+  display: block;
+}
+
 .hero__right__ornamental {
   position: absolute;
   bottom: 109px;
@@ -270,11 +277,6 @@ footer {
   }
   .btn--primary {
     font-size: 18px;
-  }
-  .hero__left__ornamental {
-    position: absolute;
-    top: 45px;
-    left: -110px;
   }
 
   .services {
